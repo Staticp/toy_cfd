@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/simple.h
+iostream
+-
+string
+-
+vector
+-
+
+/home/static/mycode/simple/src/main.cpp
+iostream
+-
+simple.h
+/home/static/mycode/simple/src/simple.h
+
+/home/static/mycode/simple/src/simple.cpp
+cmath
+-
+fstream
+-
+simple.h
+/home/static/mycode/simple/src/simple.h
+
