@@ -1,1 +1,0 @@
-/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/Couette.dir/src/main.cpp.o CMakeFiles/Couette.dir/src/simple.cpp.o  -o ../bin/Couette 
