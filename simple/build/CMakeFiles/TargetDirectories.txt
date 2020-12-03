@@ -1,3 +1,0 @@
-/home/static/mycode/simple/build/CMakeFiles/rebuild_cache.dir
-/home/static/mycode/simple/build/CMakeFiles/Couette.dir
-/home/static/mycode/simple/build/CMakeFiles/edit_cache.dir
